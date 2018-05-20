@@ -1,0 +1,15 @@
+{
+  "name": "demomongochat",
+  "version": "1.0.0",
+  "description": "Demo Mongo Chat with socket IO",
+  "main": "server.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.30",
+    "socket.io": "^2.1.1"
+  }
+}
